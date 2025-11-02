@@ -1,133 +1,90 @@
-# README.md
+👋 Abdalrhman Abdalnabe | مهندس نظم خلفية (Back-End Systems Engineer)
 
-🚀 **Back-End Developer** | خبير في **PHP (Laravel)** و **Go** — أصمم APIs آمنة وقابلة للتوسع، أدير قواعد بيانات معقّدة، وأدمج خدمات خارجية بكفاءة.
+⚙️ بناء المستقبل بأمان وكفاءة | Scalable & Secure APIs
 
----
+<div align="right">
 
-## 👨‍💻 نبذة عني
+أنا Abdalrhman Abdalnabe، مطور ومصمم نظم خلفية متخصص في بناء APIs عالية التوفر (High Availability) ونظم دقيقة (Microservices). أهدف إلى تحويل المتطلبات المعقدة إلى حلول برمجية نظيفة، آمنة، وقابلة للتوسع لدعم نمو الأعمال.
 
-مرحباً! أنا **Abdalrhman abdalnabe** — مطور Back-End متخصص في بناء حلول موثوقة وقابلة للصيانة للمشروعات ذات الأحجام المتوسطة والكبيرة. أركز على كتابة كود نظيف، تصميم واجهات برمجية (APIs) فعّالة، وتحسين أداء قواعد البيانات.
+ركز على: تحسين الأداء (Performance Tuning)، هندسة الكود النظيف (Clean Code Architecture)، والأمان (Security).
 
-**الاهتمامات:** تطوير APIs، هندسة نظم خلفية، أتمتة العمليات، الأمان، وتحسين الأداء.
+</div>
 
-حالياً أعمل بإطار **Gin** في لغة **Go** لبناء أنظمة عالية الكفاءة.
+🚀 محفظة المهارات التقنية (Tech Stack)
 
----
+تم تجميع المهارات حسب دورها لتبسيط القراءة وإبراز العمق التقني:
 
-## 🔧 المهارات التقنية
+الفئة
 
-* **اللغات:** PHP (خبرة متقدمة)، Go
-* **الأطر:** Laravel (متقدم)، Gin (Go)
-* **قواعد البيانات:** MySQL, PostgreSQL, Redis
-* **التوثيق والأمان:** JWT, OAuth, Sanctum
-* **البنية والخدمات:** RESTful APIs, Microservices، Docker، CI/CD
-* **أدوات:** Git, Composer, Make, Postman
-* **التكامل:** بوابات دفع، خدمات سحابية، Webhooks
+الأدوات الرئيسية والخبرة المتقدمة
 
----
+لغات البرمجة
 
-## ⭐ نقاط تميّز
+Go (خبرة متقدمة في الكفاءة), PHP (خبرة متقدمة)
 
-* تصميم APIs قابلة للتوسع مع أفضل ممارسات REST.
-* إدارة عمليات الدفع والتبرعات، وحفظ سجلات دقيقة للمعاملات.
-* تنفيذ أنظمة اشتراكات وحماية المحتوى (مثل الفيديوهات التدريبية).
-* تحسين استعلامات قواعد البيانات لتقليل زمن الاستجابة.
-* خبرة في إعداد سياسات أذونات متعددة الأدوار (Admin / Manager / User).
+الأطر والتطوير
 
----
+Laravel (MVC, Eloquent, Packages), Gin (Go Microservices), RESTful APIs
 
-## 🌍 المشاريع المنجزة (Live Domains)
+قواعد البيانات
 
-```
+MySQL, PostgreSQL (Query Optimization), Redis (Caching & Sessions)
+
+الأمان والتوثيق
+
+JWT, OAuth (Identity Management), Laravel Sanctum, Role-Based Access Control (RBAC)
+
+البنية والعمليات
+
+Docker (Containerization), Microservices Design, CI/CD Pipelines
+
+أدوات التطوير
+
+Git, Composer, Postman/Insomnia, Makefiles
+
+✨ أبرز الإنجازات والخبرات الهندسية
+
+هنا أركز على قيمة العمل الهندسي الذي أقدمه:
+
+هندسة APIs قابلة للتوسع: تصميم وتنفيذ واجهات برمجية (APIs) تلتزم بمعايير REST، قادرة على التعامل مع أحجام بيانات كبيرة (Scalable Data Handling) بأدنى زمن استجابة.
+
+أنظمة المعاملات والأمان: إدارة دورات الدفع الإلكتروني (Payment Gateways)، الاشتراكات، وحماية المحتوى الحساس (Digital Content Protection) عبر آليات توثيق قوية.
+
+تحسين قواعد البيانات: خبرة متعمقة في تحليل الاستعلامات (Query Analysis) وتحسينها لضمان كفاءة DB وتقليل الحمل على الخادم.
+
+تعدد الأدوار والأذونات (RBAC): بناء هياكل صلاحيات معقدة ومرنة لدعم المستخدمين، المديرين، ومسؤولي النظام بشكل آمن.
+
+أتمتة العمليات: تطبيق Webhooks وأتمتة المهام الخلفية لربط الخدمات السحابية والطرف الثالث بكفاءة.
+
+📊 إحصاءات GitHub الديناميكية
+
+تعكس هذه الإحصاءات نشاطي والتزامي بالكود المفتوح والتطوير المستمر:
+
+[![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdalrhmanAbdoAlhade&show_icons=true&count_private=true&theme=radical&locale=en&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrhmanAbdoAlhade&layout=compact&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
+
+
+ملاحظة: تأكد من أن اسم المستخدم في الروابط هو AbdalrhmanAbdoAlhade لتعمل الإحصاءات بشكل صحيح.
+
+🌐 المشاريع المنجزة ومواقع قيد التشغيل (Live Deployments)
+
+أقدم قيمة مضافة للعملاء في قطاعات التجارة الإلكترونية، الأوقاف، والخدمات التعليمية. القائمة التالية تمثل عينة من النطاقات التي ساهمت في تطوير بنيتها الخلفية:
+
 3asaf-perfumes.netlify.app
 abdaealmasi.store
 aflaj-cd.sa
-aflaj-cd.store
-aflajaskhia.sa
-ahsinalhadith.sa
-alastura.com
-alastura.tech
-albabir-cd.sa
-albabir-cd.site
-albabir-cd.store
-albabir.sa
-alghala-q.sa
-alrayith-br.sa
-alrayith-d.sa
-altanmia-alia.sa
-altanmia-alia.site
-altanmia-alia.store
-alyateem.com
-amayer-hs.sa
-amayer-hs.store
-ambari-q.sa
-alsarayje.com
-asiruh-m.sa
-ehsan-e.sa
-ehsan-e.site
-hayahwaqf.com
-kera.sa
-luxurytouch.net
-mabnaa.online
-mabniun.shop
-mahalani-br.sa
-mahalani-br.store
-maqzaa-ber.sa
-masaged-es.sa
-masaged.com
-meal.sa
-migzabir.com
-modernmas.sa
-muzhira-cd.sa
-muzhira-cd.shop
-nice-store.netlify.app
-q-kubara.sa
-quran-es.sa
-quran-q.shop
-quran.com
-rithbir.com
-sabia-cd.sa
-sabia-cd.shop
-souqna-sa.com
-sptraining.sa
-support-admin.shop
-tahfizali.com
-technocode-academy.com
-umq.sa
-walidaeen.com
-waqf-albarkah.com
-waqf-alyateem.com
-waqf-yateem.com
-waqfalbaraka.online
-waqfbaraka.com
-waqfg.com
-waqfkmakkah.com
-waqfradwan.com
-yateem.com
+...
 yatim.shop
 zh-coding.com
-```
 
----
 
-## 📊 إحصاءات GitHub
+📬 تواصل و تعاون
 
-```markdown
-[![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdalrhmanAbdoAlhade&show_icons=true&count_private=true&theme=radical)](https://github.com/AbdalrhmanAbdoAlhade)
+أبحث حالياً عن فرص جديدة ومشاريع تتطلب حلولاً خلفية متطورة. لا تتردد في التواصل معي للمناقشة أو بدء التعاون.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrhmanAbdoAlhade&layout=compact)](https://github.com/AbdalrhmanAbdoAlhade)
-```
+📧 البريد الإلكتروني: abdo.king22227@gmail.com
 
----
+💼 LinkedIn: Abdalrhman abdalnabe
 
-## 📬 تواصل معي
-
-* **📧 البريد الإلكتروني:** [abdo.king22227@gmail.com](mailto:abdo.king22227@gmail.com)
-* **💼 LinkedIn:** [Abdalrhman abdalnabe](https://www.linkedin.com/in/abdalrhman-abdalnabe-6673312ba/)
-* **📱 الهاتف / واتساب:** [+201023402756](https://wa.me/201023402756)
-
----
-
-## 🧭 متاح للتعاون
-
-أنا متاح حالياً للعمل على مشاريع جديدة سواء كانت تطوير أنظمة متكاملة، APIs متقدمة، أو تحسين بنية المشاريع الحالية. يمكنك التواصل معي مباشرة عبر البريد أو الواتساب لبدء التعاون.
+📱 WhatsApp: +201023402756
