@@ -88,78 +88,150 @@ AbdalrhmanAbdoAlhade/b2b & AbdalrhmanAbdoAlhade/fas
 
 
 
+ملاحظة: لقد تم تصحيح اسم المستخدم في كلا الرابطين أعلاه ليصبح AbdalrhmanAbdoAlhade.
 
 🌐 المشاريع المنجزة ومواقع قيد التشغيل (Live Deployments)
 
 أقدم قيمة مضافة للعملاء في قطاعات التجارة الإلكترونية، الأوقاف، والخدمات التعليمية. القائمة التالية تمثل عينة من النطاقات التي ساهمت في تطوير بنيتها الخلفية:
 
-- [abdaealmasi.store](https://abdaealmasi.store)
-- [aflaj-cd.sa](https://aflaj-cd.sa)
-- [aflaj-cd.store](https://aflaj-cd.store)
-- [aflajaskhia.sa](https://aflajaskhia.sa)
-- [ahsinalhadith.sa](https://ahsinalhadith.sa)
-- [alastura.com](https://alastura.com)
-- [alastura.tech](https://alastura.tech)
-- [albabir-cd.sa](https://albabir-cd.sa)
-- [albabir-cd.site](https://albabir-cd.site)
-- [albabir-cd.store](https://albabir-cd.store)
-- [albabir.sa](https://albabir.sa)
-- [alghala-q.sa](https://alghala-q.sa)
-- [alrayith-br.sa](https://alrayith-br.sa)
-- [alrayith-d.sa](https://alrayith-d.sa)
-- [altanmia-alia.sa](https://altanmia-alia.sa)
-- [altanmia-alia.site](https://altanmia-alia.site)
-- [altanmia-alia.store](https://altanmia-alia.store)
-- [alyateem.com](https://alyateem.com)
-- [amayer-hs.sa](https://amayer-hs.sa)
-- [amayer-hs.store](https://amayer-hs.store)
-- [ambari-q.sa](https://ambari-q.sa)
-- [alsarayje.com](https://alsarayje.com)
-- [asiruh-m.sa](https://asiruh-m.sa)
-- [ehsan-e.sa](https://ehsan-e.sa)
-- [ehsan-e.site](https://ehsan-e.site)
-- [hayahwaqf.com](https://hayahwaqf.com)
-- [kera.sa](https://kera.sa)
-- [luxurytouch.net](https://luxurytouch.net)
-- [mabnaa.online](https://mabnaa.online)
-- [mabniun.shop](https://mabniun.shop)
-- [mahalani-br.sa](https://mahalani-br.sa)
-- [mahalani-br.store](https://mahalani-br.store)
-- [maqzaa-ber.sa](https://maqzaa-ber.sa)
-- [masaged-es.sa](https://masaged-es.sa)
-- [masaged.com](https://masaged.com)
-- [meal.sa](https://meal.sa)
-- [migzabir.com](https://migzabir.com)
-- [modernmas.sa](https://modernmas.sa)
-- [muzhira-cd.sa](https://muzhira-cd.sa)
-- [muzhira-cd.shop](https://muzhira-cd.shop)
-- [q-kubara.sa](https://q-kubara.sa)
-- [quran-es.sa](https://quran-es.sa)
-- [quran-q.shop](https://quran-q.shop)
-- [rithbir.com](https://rithbir.com)
-- [sabia-cd.sa](https://sabia-cd.sa)
-- [sabia-cd.shop](https://sabia-cd.shop)
-- [souqna-sa.com](https://souqna-sa.com)
-- [sptraining.sa](https://sptraining.sa)
-- [support-admin.shop](https://support-admin.shop)
-- [tahfizali.com](https://tahfizali.com)
-- [technocode-academy.com](https://technocode-academy.com)
-- [umq.sa](https://umq.sa)
-- [walidaeen.com](https://walidaeen.com)
-- [waqf-albarkah.com](https://waqf-albarkah.com)
-- [waqf-alyateem.com](https://waqf-alyateem.com)
-- [waqf-yateem.com](https://waqf-yateem.com)
-- [waqfalbaraka.online](https://waqfalbaraka.online)
-- [waqfbaraka.com](https://waqfbaraka.com)
-- [waqfg.com](https://waqfg.com)
-- [waqfkmakkah.com](https://waqfkmakkah.com)
-- [waqfradwan.com](https://waqfradwan.com)
-- [yateem.com](https://yateem.com)
-- [yatim.shop](https://yatim.shop)
-- [zh-coding.com](https://zh-coding.com)
-- [3asaf-perfumes.netlify.app](https://3asaf-perfumes.netlify.app)
-- [nice-store.netlify.app](https://nice-store.netlify.app)
+3asaf-perfumes.netlify.app
 
+abdaealmasi.store
+
+aflaj-cd.sa
+
+<details>
+<summary>عرض 65 موقعاً إضافياً قيد التشغيل 🔽</summary>
+
+aflaj-cd.store
+
+aflajaskhia.sa
+
+ahsinalhadith.sa
+
+alastura.com
+
+alastura.tech
+
+albabir-cd.sa
+
+albabir-cd.site
+
+albabir-cd.store
+
+albabir.sa
+
+alghala-q.sa
+
+alrayith-br.sa
+
+alrayith-d.sa
+
+alsarayje.com
+
+altanmia-alia.sa
+
+altanmia-alia.site
+
+altanmia-alia.store
+
+alyateem.com
+
+amayer-hs.sa
+
+amayer-hs.store
+
+ambari-q.sa
+
+asiruh-m.sa
+
+ehsan-e.sa
+
+ehsan-e.site
+
+hayahwaqf.com
+
+kera.sa
+
+luxurytouch.net
+
+mabnaa.online
+
+mabniun.shop
+
+mahalani-br.sa
+
+mahalani-br.store
+
+maqzaa-ber.sa
+
+masaged-es.sa
+
+masaged.com
+
+meal.sa
+
+migzabir.com
+
+modernmas.sa
+
+muzhira-cd.sa
+
+muzhira-cd.shop
+
+nice-store.netlify.app
+
+q-kubara.sa
+
+quran-es.sa
+
+quran-q.shop
+
+quran.com
+
+rithbir.com
+
+sabia-cd.sa
+
+sabia-cd.shop
+
+souqna-sa.com
+
+sptraining.sa
+
+support-admin.shop
+
+tahfizali.com
+
+technocode-academy.com
+
+umq.sa
+
+walidaeen.com
+
+waqf-albarkah.com
+
+waqf-alyateem.com
+
+waqf-yateem.com
+
+waqfalbaraka.online
+
+waqfbaraka.com
+
+waqfg.com
+
+waqfkmakkah.com
+
+waqfradwan.com
+
+yateem.com
+
+yatim.shop
+
+zh-coding.com
+
+</details>
 
 📬 تواصل و تعاون
 
