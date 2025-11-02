@@ -42,7 +42,7 @@ Docker (Containerization), Microservices Design, CI/CD Pipelines
 
 Git, Composer, Postman/Insomnia, Makefiles
 
-✨ أبرز الإنجازات والخبرات الهندسية
+✨ أبرز الإنجازات والإنجازات الهندسية
 
 هنا أركز على قيمة العمل الهندسي الذي أقدمه:
 
@@ -85,6 +85,7 @@ AbdalrhmanAbdoAlhade/b2b & AbdalrhmanAbdoAlhade/fas
 [![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdalrhmanAbdoAlhade&show_icons=true&count_private=true&theme=radical&locale=en&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrhmanAbdoAlhade&layout=compact&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
+
 
 
 
