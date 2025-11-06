@@ -74,14 +74,6 @@ AbdalrhmanAbdoAlhade/b2b & AbdalrhmanAbdoAlhade/fas
 
 القيمة: دليل على العمل المستمر والخبرة العملية في مشاريع PHP و Laravel التجارية.
 
-📊 إحصاءات GitHub الديناميكية
-
-تعكس هذه الإحصاءات نشاطي والتزامي بالكود المفتوح والتطوير المستمر:
-
-[![Abdalrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdalrhmanAbdoAlhade&show_icons=true&count_private=true&theme=radical&locale=en&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrhmanAbdoAlhade&layout=compact&hide_border=true)](https://github.com/AbdalrhmanAbdoAlhade)
-
 
 🌐 المشاريع المنجزة ومواقع قيد التشغيل (Live Deployments)
 
